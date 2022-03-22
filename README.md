@@ -36,7 +36,6 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
   </a>&nbsp;&nbsp;
   
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align='center'>
   Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
@@ -50,7 +49,7 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 
 ## Education
 
-**🔹 Computer Science | TOKYO INSTITUTE OF TECHNOLOGY**\
+**🔹 Computer Science, IT, Information Processing | Utrecht University **\
 &ensp;&ensp;&nbsp;&nbsp;Bachelor's degree&nbsp;&nbsp;2008 – 2012
 
 
