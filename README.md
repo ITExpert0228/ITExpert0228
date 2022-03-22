@@ -41,7 +41,7 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 
 <div align='center'>
   <h3 align='center'>
-      👯 Contract me, please 👯
+      👯 How to reach out 👯
    </h3>
    <p align='center'> 📧 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a></p>
    <p align='center'> 📞 Phone number: <a href='#'>+81 50 5534 2569</a></p>
@@ -49,7 +49,7 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 
 ## Education
 
-**🔹 Computer Science, IT, Information Processing | Utrecht University **\
+💻 Computer Science, IT, Information Processing &nbsp|&nbsp Utrecht University \
 &ensp;&ensp;&nbsp;&nbsp;Bachelor's degree&nbsp;&nbsp;2008 – 2012
 
 
@@ -57,40 +57,40 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+    <img align="left" src="https://img.shields.io/badge/truffle-2CA5E0?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/hardhat-000000?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Ethers.js-F05032?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Web3.js-4EA94B?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/truffle-2CA5E0?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-Smart%20Contracts-green?style=for-the-badge" />
   </div>
   <br>
   <br>
   <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-DeFi-blue?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-DEX-339933?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Typescript-E10098?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/-Polygon-blueviolet?style=for-the-badge" />
   </div>
   <br>
   <br>
   <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/Typescript-E10098?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/-NFT-green?style=for-the-badge" />
-    <img align="left" src="https://img.shields.io/badge/-Avalanche-red?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/-BSC-%237E7FC8?style=for-the-badge" />
+    <img align="left" src="https://img.shields.io/badge/-Avalanche-red?style=for-the-badge" />
     <img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </div>
   <br>
   <br>
   <div style="display: flex; justify-content: space-between;">
+    <img align="left" src="https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=javascript&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="left" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img align="left" src="https://img.shields.io/badge/Amazon AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </div>
 </div>
