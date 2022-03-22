@@ -43,9 +43,11 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itexpert0228" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/itexpert0228?trk=profile-badge">Daren Ikeda</a></div>
               
 
-<p align='center'>
+<div align='center'>
+  <h3 align='center'>
   📫 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a>
-</p>
+    </h3>
+</div>
 
 ## Education
 
@@ -53,7 +55,7 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
 &ensp;&ensp;&nbsp;&nbsp;Bachelor's degree&nbsp;&nbsp;2008 – 2012
 
 
-## Skills
+## Preferred Skills and Technologies
 <div align="center">
   <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
