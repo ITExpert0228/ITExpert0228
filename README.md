@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align='center'>
   Senior Blockchain/Backend Developer
 </h1>
@@ -40,13 +39,12 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
   Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
 
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itexpert0228" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/itexpert0228?trk=profile-badge">Daren Ikeda</a></div>
-              
-
 <div align='center'>
   <h3 align='center'>
-  📫 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a>
-    </h3>
+      👯 Contract me, please 👯
+   </h3>
+   <p align='center'> 📧 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a></p>
+   <p align='center'> 📞 Phone number: <a href='#'>+81 50 5534 2569</a></p>
 </div>
 
 ## Education
