@@ -41,8 +41,11 @@ Daren is a senior blockchain and full stack web developer who has 6+ years of ex
   Do you like my open source projects? Your stars would be very helpful for me, please <a href='https://stars.github.com/nominate/'>nominate me to Github Stars ⭐</a>
 </p>
 
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="itexpert0228" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jp.linkedin.com/in/itexpert0228?trk=profile-badge">Daren Ikeda</a></div>
+              
+
 <p align='center'>
-  📫 How to reach me: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a>
+  📫 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a>
 </p>
 
 ## Education
