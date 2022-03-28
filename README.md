@@ -53,7 +53,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 ## Education
 
-💻 Computer Science, IT, Information Processing &nbsp|&nbsp Utrecht University \
+💻 Computer Science, IT, Information Processing | Utrecht University \
 &ensp;&ensp;&nbsp;&nbsp;Bachelor's degree&nbsp;&nbsp;2008 – 2012
 
 
