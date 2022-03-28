@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-Daren is a senior blockchain and full stack web developer who has 6+ years of experience with proficiency in developing DeFi Ecosystems | NFT Marketplace | Smart  Contracts | ICO/IFO/ITOs | various of dApps today. He is fairly fluent with solidity and very used to all the libraries and tools for compiling and deploy smart contracts over various networks such as Ethereum, Binance Smart Chain, Polygon etc. He also loves to create flawless frontend pages with react frameworks and backends in frameworks based on nodejs, php and python, as he started his career as a web developer a while ago. He believes himself as a result-oriented programmer and strong communicator who understands the remote work culture and loves to see his customers making a fast ROI from the products he built.
-
+A senior blockchain engineer with 5+ years of experience and proficiency in developing DeFi Ecosystems | NFT Marketplace | Smart Contracts | ICO/IFO/ITOs | various of dApps today.
+Although I participated in web development for various purposes, Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
+With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM networks and Smart Contract world.
+I am fairly fluent with solidity and very used to all the libraries and tools for compiling and deploy smart contracts over various networks such as Ethereum, Binance Smart Chain, Polygon etc. 
+In addition, I also love to create flawless front-end pages with react frameworks and back-ends in frameworks based on node.js, PHP and Python, as started my career as a web developer since 10 years ago. 
+I believe myself as a result-oriented programmer and strong communicator who understands the remote work culture and love to see my valuable customers making a fast ROI from the products I built.
 <br><br>
 </p>
 
