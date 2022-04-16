@@ -48,7 +48,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
       👯 How to reach out 👯
    </h3>
    <p align='center'> 📧 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a></p>
-   <p align='center'> 📞 Phone number: <a href='#'>+81 50 5534 2569</a></p>
+   <p align='center'> 📞 Phone number: <a href='#'>+1 347 973 4033</a></p>
 </div>
 
 ## Education
