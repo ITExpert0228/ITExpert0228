@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Senior Blockchain/Backend Developer
+  Senior Blockchain/Backend Engineer
 </h1>
 
 <p>
@@ -31,7 +31,7 @@ I believe myself as a result-oriented programmer and strong communicator who und
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/itexpert0228/">
+  <a href="https://www.linkedin.com/in/dai-hirono-9003a0236/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/realcredits">
