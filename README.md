@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-A senior blockchain engineer with 5+ years of experience and proficiency in developing DeFi Ecosystems | NFT Marketplace | Smart Contracts | ICO/IFO/ITOs | various of dApps today.
+A senior blockchain engineer with 5+ years of experience and proficiency in developing a new Blockchain, DeFi protocols, NFT Marketplace, Smart Contracts, Layer 2 solutions, and various of dApps.
 Although I participated in web development for various purposes, Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
 With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM networks and Smart Contract world.
 I am fairly fluent with solidity and very used to all the libraries and tools for compiling and deploy smart contracts over various networks such as Ethereum, Binance Smart Chain, Polygon etc. 
