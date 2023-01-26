@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Senior Blockchain/Backend Engineer
+  Software Engineer
 </h1>
 
 <p>
-A senior blockchain engineer with 5+ years of experience and proficiency in developing a new Blockchain, DeFi protocols, NFT Marketplace, Smart Contracts, Layer 2 solutions, and various of dApps.
-Although I participated in web development for various purposes, Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
-With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM networks and Smart Contract world.
-I am fairly fluent with solidity and very used to all the libraries and tools for compiling and deploy smart contracts over various networks such as Ethereum, Binance Smart Chain, Polygon etc. 
+A Senior Software Engineer with 5+ years of experience and proficiency in developing RESTful APIs, DeFi protocols, NFT Marketplace, Smart Contracts and Backend Systems.
+Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
+With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM compatible networks such as Ethereum, Polygon, Avalanche, BSC and Smart Contract world.
+I also have been fairly fluent with backend development based on the integrated environment, using nodejs, expressjs, Laravel/PHP. MongoDB, PostgresSQL and MySQL are what I have experienced for database usage so far. 
 In addition, I also love to create flawless front-end pages with react frameworks and back-ends in frameworks based on node.js, PHP and Python, as started my career as a web developer since 10 years ago. 
 I believe myself as a result-oriented programmer and strong communicator who understands the remote work culture and love to see my valuable customers making a fast ROI from the products I built.
 <br><br>
@@ -33,6 +33,9 @@ I believe myself as a result-oriented programmer and strong communicator who und
   
   <a href="https://www.linkedin.com/in/dai-hirono-9003a0236/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/john-mcduffie-9003a0236/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/hi_dai">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
