@@ -30,9 +30,6 @@ I believe myself as a result-oriented programmer and strong communicator who und
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/john-mcduffie-9003a0236/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/real_credits">
     <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Freal_credits" />
   </a>&nbsp;&nbsp;
