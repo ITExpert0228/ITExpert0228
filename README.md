@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align='center'>
-  Backend & Blockchain Engineer
+  Talented IT Expert
 </h1>
 
 <p>
