@@ -45,8 +45,8 @@ I believe myself as a result-oriented programmer and strong communicator who und
   <h3 align='center'>
       👯 How to reach out 👯
    </h3>
-   <p align='center'> 📧 Email address: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a></p>
-   <p align='center'> 📧 Email address: <a href='mailto:realcredits0228@gmail.com'>realcredits0228@gmail.com</a></p>
+   <p align='center'> 📧 Email address 1: <a href='mailto:dhv.techcenter@gmail.com'>dhv.techcenter@gmail.com</a></p>
+   <p align='center'> 📧 Email address 2: <a href='mailto:realcredits0228@gmail.com'>realcredits0228@gmail.com</a></p>
    <!-- <p align='center'> 📞 Phone number: <a href='#'>+1 347 973 4033</a></p> -->
 </div>
 
