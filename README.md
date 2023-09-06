@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p>
-A Senior Software Engineer with 5+ years of experience and proficiency in developing RESTful APIs, DeFi protocols, NFT Marketplace, Smart Contracts and Backend Systems.
+A Senior Software Engineer with 10+ years of experience and proficiency in developing Frontend, Backend, RESTful APIs, DeFi protocols, NFT Marketplace, Smart Contracts and Backend Systems.
 Information Algebra and Statistical Mathematics were originally my major fields, and I have tried to acquire a lot of knowledge in computer encryption fields such as DES, RSA, and ECDSA.
 With the development of decentralized technology and the growth of the market, my passionate desire led me to the EVM compatible networks such as Ethereum, Polygon, Avalanche, BSC and Smart Contract world.
 I also have been fairly fluent with backend development based on the integrated environment, using nodejs, expressjs, Laravel/PHP. MongoDB, PostgresSQL and MySQL are what I have experienced for database usage so far. 
